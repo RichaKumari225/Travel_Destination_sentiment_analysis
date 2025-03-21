@@ -1,0 +1,20 @@
+# Web Scraping
+scrapy==2.11.0
+selenium==4.20.0
+
+# Data Processing & Analysis
+pandas==2.2.1
+numpy==1.26.4
+
+# Sentiment Analysis & Machine Learning
+scikit-learn==1.4.2
+nltk==3.8.1
+textblob==0.17.1
+vaderSentiment==3.3.2
+
+# Data Visualization (Optional for Python-based plots)
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Power BI Integration (Optional)
+pyodbc==5.1.0  # For Power BI data connection (if needed)
