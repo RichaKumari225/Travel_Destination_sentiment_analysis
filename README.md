@@ -7,7 +7,7 @@ The **Travel Destination Sentiment Analysis** project aims to extract, process, 
 
 ### 🚀 **Tech Stack Used**
 - **Python** → Data processing, cleaning, and sentiment analysis.  
-- **Scrapy ** → Web scraping reviews from travel platforms.  
+- **Scrapy** → Web scraping reviews from travel platforms.  
 - **Scikit-Learn, VADER** → Sentiment classification.  
 - **Power BI** → Data visualization and dashboard creation.  
 - **Pandas & Seaborn** → Data wrangling and exploratory data analysis (EDA).  
